@@ -55,26 +55,25 @@ A Java-based real-time tracker for global and country-level COVID-19 data, power
 ## 📥 Installation & Usage
 
 ### 1. Clone the repository:
-```bash
+
 git clone https://github.com/codeboi121/coronavirus-tracker.git
 cd coronavirus-tracker
 
 
 ### 2. Build the project:
 
-```bash
+
 # If you're using Maven:
 mvn clean package
 
 # Or for Gradle:
 ./gradlew build
-```
+
 
 ### 3. Run the application:
 
-```bash
+
 java -jar target/coronavirus-tracker-<version>.jar
-```
 
 Application starts at `http://localhost:8080`
 
@@ -142,15 +141,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 ````
 
 ---
-
-### ✅ What to do next:
-1. **Customize Technical Details** – Like the actual build tool (Maven/Gradle), data source classes, and test coverage.
-2. **Add Screenshots** – Capture your app running locally or deployed, save under `/docs`.
-3. **Fill in History** – If you supported historical time series, update that section.
-4. **Adjust Endpoints** – Match your actual controller mappings and data DTOs.
-5. **Add License Badge** – (optional) at the top:
-
-   ```md
-   ![License](https://img.shields.io/badge/license-MIT-green)
-````
-
