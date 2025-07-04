@@ -56,24 +56,27 @@ A Java-based real-time tracker for global and country-level COVID-19 data, power
 
 ### 1. Clone the repository:
 
+```bash
 git clone https://github.com/codeboi121/coronavirus-tracker.git
 cd coronavirus-tracker
-
+```
 
 ### 2. Build the project:
 
-
+```bash
 # If you're using Maven:
 mvn clean package
 
 # Or for Gradle:
 ./gradlew build
+```
 
 
 ### 3. Run the application:
 
-
+```bash
 java -jar target/coronavirus-tracker-<version>.jar
+```
 
 Application starts at `http://localhost:8080`
 
