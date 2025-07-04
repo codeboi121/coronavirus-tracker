@@ -1,4 +1,3 @@
-````markdown
 # 🦠 Coronavirus Tracker
 
 A Java-based real-time tracker for global and country-level COVID-19 data, powered by Spring Boot and REST APIs.
@@ -45,6 +44,7 @@ A Java-based real-time tracker for global and country-level COVID-19 data, power
 
 ## 🚀 Demo
 
+⚠️ *Include screenshots or animated GIFs here. E.g.:*
 
 ![Homepage Stats View](./docs/screenshot-global-stats.png)
 
@@ -58,7 +58,7 @@ A Java-based real-time tracker for global and country-level COVID-19 data, power
 ```bash
 git clone https://github.com/codeboi121/coronavirus-tracker.git
 cd coronavirus-tracker
-````
+
 
 ### 2. Build the project:
 
