@@ -44,7 +44,6 @@ A Java-based real-time tracker for global and country-level COVID-19 data, power
 
 ## 🚀 Demo
 
-⚠️ *Include screenshots or animated GIFs here. E.g.:*
 
 ![Homepage Stats View](./docs/screenshot-global-stats.png)
 
